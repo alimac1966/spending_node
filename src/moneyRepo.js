@@ -29,9 +29,12 @@ function moneyRepo() {
       try {
         await client.connect();
         const db = client.db(dbName);
-//        console.log(srcCategory);
-        const results = db.collection('CategoryMappings').find({"MH CATEGORY": srcCategory});
+        srcCategory = srcCategory.replace(/"/g,'');
+        const results = db.collection('CategoryMappings').findOne({'MH CATEGORY': srcCategory});
         resolve(await results);
+
+//        console.log(srcCategory);
+      
       } catch (error) {
         reject(error)
       }

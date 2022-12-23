@@ -12,10 +12,10 @@ async function main() {
     const loadMH = require('./src/loadmhcsv');
     await client.connect();
     try {
-        dropMoney.dropdata;
-        loadMappings.loadmappings;
-        loadEIQ.loadeiq;
-        loadMH.loadmh;
+        await dropMoney.dropdata;
+        await loadMappings.loadmappings;
+        await loadEIQ.loadeiq;
+        await loadMH.loadmh;
     } catch (error) {
         console.log(error);
     } finally {
