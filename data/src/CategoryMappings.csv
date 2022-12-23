@@ -1,0 +1,95 @@
+Expense_Group,Expense_Category,MH CATEGORY GROUP,MH CATEGORY,EIQ Category
+Bills,Household insurance,Bills and utilities,Household insurance,Insurance
+Bills,Online,Bills and utilities,Online services,Bills and utilities:Online services
+Household,Home maintenance,Bills and utilities,Other household expenses,Bills and utilities:Other household expenses
+Bills,Bank Charge,Bills and utilities,Service fees & bank charges,Bank:Bank Charges
+Bills,Telephone & mobile,Bills and utilities,Telephone & mobile,Household:Phone - Broadband
+Bills,Telephone & mobile,Bills and utilities,Telephone & mobile,Household:Phone &  Broadband
+Bills,Telephone & mobile,Bills and utilities,Telephone & mobile,Mobile
+Bills,Telephone & mobile,Bills and utilities,Telephone & mobile,Mobile:Mobile Phone Bills
+Bills,TV,Bills and utilities,TV & internet,Household:TV
+Bills,Utilities,Bills and utilities,Utilities,Household:Gas - Electricity
+Bills,Utilities,Bills and utilities,Utilities,Household:Gas & Electricity
+Business,Office costs,Business,Office costs,Business:Office costs
+Business,Other business costs,Business,Other business costs,Business:Other business costs
+Business,Postage and shipping,Business,Postage and shipping,Business:Postage and shipping
+Business,Printing,Business,Printing,Business:Printing
+Cash,Cash withdrawals,Cash,Cash withdrawals,Cash:Cash withdrawals
+Cash,Savings,Cash,Savings,Cash:Savings
+Entertainment,Food,Entertainment,Eating out,Food
+Entertainment,Lunch,Entertainment,Lunch,Food:Lunch
+Entertainment,Take Away,Entertainment,Take Away,Food:Take Away
+Entertainment,Restaurant,Entertainment,Restaurant,Restaurant
+Entertainment,Entertainment,Entertainment,Entertainment,Entertainment
+Entertainment,Hobbies,Entertainment,Hobbies,Sports & Recreation
+Entertainment,Betting,Entertainment,Betting,Sports & Recreation:Betting
+Entertainment,Football,Entertainment,Football,Sports & Recreation:Football
+Entertainment,Golf,Entertainment,Golf,Sports & Recreation:Golf
+Entertainment,Gym,Entertainment,Gym,Sports & Recreation:Gym
+Entertainment,Betting,Entertainment,Betting,Sports:Betting
+Entertainment,Football,Entertainment,Football,Sports:Football
+Entertainment,Golf,Entertainment,Golf,Sports:Golf
+Entertainment,Holidays,Entertainment,Holidays,Vacation
+Entertainment,Holidays,Entertainment,Holidays,Vacation:CLC Loan
+Entertainment,Holidays,Entertainment,Holidays,Vacation:CLC Membership
+Entertainment,Holidays,Entertainment,Holidays,Vacation:Holiday Spending
+Entertainment,Holidays,Entertainment,Holidays,Vacation:Non CLC Holiday
+Entertainment,Ice Hockey,Entertainment,Ice Hockey,Ice Hockey
+Entertainment,Ice Hockey,Entertainment,Ice Hockey,Ice Hockey: Tickets
+Entertainment,Ice Hockey,Entertainment,Ice Hockey,Ice Hockey:Away Games
+Entertainment,Ice Hockey,Entertainment,Ice Hockey,Ice Hockey:Spending
+Entertainment,Ice Hockey,Entertainment,Ice Hockey,Ice Hockey:Tickets
+Entertainment,Ice Hockey,Entertainment,Ice Hockey,Sports & Recreation:Ice Hockey
+Entertainment,Subscriptions,Entertainment,Subscriptions,Entertainment:Subscriptions
+Gifts,Charity,Gifts and giving,Charitable giving,Charity
+Gifts,Friends,Gifts and giving,Gifts to friends & family,Gifts
+Family,June,Gifts and giving,June,Gifts:June
+Family,June,Gifts and giving,June,Family:June
+Family,June,Gifts and giving,June,June Monthly Allowance
+Family,Liam,Gifts and giving,Liam,Gifts:Liam
+Family,Liam,Gifts and giving,Liam,Family:Liam
+Family,Mum Dad,Gifts and giving,Mum Dad,Gifts:Mum & Dad
+Family,Mum Dad,Gifts and giving,Mum Dad,Family:Mum - Dad
+Family,Samantha,Gifts and giving,Samantha,Gifts:Samantha
+Family,Samantha,Gifts and giving,Samantha,Family:Samantha
+Family,Tanski,Gifts and giving,Tanski,Family:Tanski
+Self,Health,Health,Healthcare,Health:Healthcare
+Self,Health,Health,Personal care,Health:Personal care
+Self,Clothing & shoes,Household,Clothing & shoes,Household:Clothing & shoes
+Bills,Council Tax,Household,Council Tax,Household:Council Tax
+Houserhold,Education,Household,Education,Household:Education
+Houserhold,Electronics,Household,Electronics,Household:Electronics
+Houserhold,Garden,Household,Garden,Household:Garden
+Houserhold,Computer,Houserhold,Computer,Software
+Houserhold,Computer,Houserhold,Computer,Computer
+Houserhold,Home improvement,Household,Home improvement,Household:Home improvement
+Houserhold,Home maintenance,Household,Home maintenance,Household:Maintenance
+Houserhold,Move,Houserhold,Move,Household:Move
+Houserhold,Home maintenance,Houserhold,Home maintenance,Household
+Bills,Household insurance,Household,Insurance,Insurance:Life Insurance
+Bills,Tanski,Household,Pets,Household:Pets
+Income,Interest earnings,Income,Interest earnings,Bank:Interest
+Income,Other income,Income,Other income,Income:Other income
+Income,Salary,Income,Salary,Income
+Income,Savings & investments income,Income,Savings & investments income,Investment
+Income,Work expenses,Income,Work expenses,Income:Work expenses
+Income,Tax,Income,Tax,Tax:Alistair
+Other,Other expenses,Other,Other expenses,Others
+Repayments,Rent,Rent payment,Rent payments,Rent payment:Rent payments
+Repayments,Loans,Repayments,Loans,Repayments:Loans
+Repayments,Mortgage,Repayments,Mortgages,Household:Mortgage
+Shopping,General merchandise,Shopping,General merchandise,Shopping
+Shopping,Groceries,Shopping,Groceries,Shopping:Groceries
+Shopping,Self,Shopping,Self,Self
+Transfers,Credit card payments,Transfers,Credit card payments,Transfers:Credit card payments
+Transfers,Savings,Transfers,Savings,Transfers:Savings
+Transfers,Transfers,Transfers,Transfers,Transfer (Inward)
+Transfers,Transfers,Transfers,Transfers,Transfer (Outward)
+Transport,Car Loan,Transport,Car Loan,Car:Car Loan
+Transport,Car running costs,Transport,Car running costs,Car
+Transport,Car running costs,Transport,Car running costs,Car:Car Insurance
+Transport,Fuel,Transport,Fuel,Travel:Fuel
+Transport,Travel,Transport,Travel,Travel
+Transport,Bus,Transport,Bus,Travel:Bus
+Transport,Train,Transport,Train,Travel:Train
+Work,Expenses,Work,Expenses,Work

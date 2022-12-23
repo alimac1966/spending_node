@@ -1,0 +1,660 @@
+[
+    {
+        "Expense_Group": "Bills",
+        "Expense_Category": "Household insurance",
+        "MH CATEGORY GROUP": "Bills and utilities",
+        "MH CATEGORY": "Household insurance",
+        "EIQ Category": "Insurance"
+    },
+    {
+        "Expense_Group": "Bills",
+        "Expense_Category": "Online",
+        "MH CATEGORY GROUP": "Bills and utilities",
+        "MH CATEGORY": "Online services",
+        "EIQ Category": "Bills and utilities:Online services"
+    },
+    {
+        "Expense_Group": "Household",
+        "Expense_Category": "Home maintenance",
+        "MH CATEGORY GROUP": "Bills and utilities",
+        "MH CATEGORY": "Other household expenses",
+        "EIQ Category": "Bills and utilities:Other household expenses"
+    },
+    {
+        "Expense_Group": "Bills",
+        "Expense_Category": "Bank Charge",
+        "MH CATEGORY GROUP": "Bills and utilities",
+        "MH CATEGORY": "Service fees & bank charges",
+        "EIQ Category": "Bank:Bank Charges"
+    },
+    {
+        "Expense_Group": "Bills",
+        "Expense_Category": "Telephone & mobile",
+        "MH CATEGORY GROUP": "Bills and utilities",
+        "MH CATEGORY": "Telephone & mobile",
+        "EIQ Category": "Household:Phone - Broadband"
+    },
+    {
+        "Expense_Group": "Bills",
+        "Expense_Category": "Telephone & mobile",
+        "MH CATEGORY GROUP": "Bills and utilities",
+        "MH CATEGORY": "Telephone & mobile",
+        "EIQ Category": "Household:Phone &  Broadband"
+    },
+    {
+        "Expense_Group": "Bills",
+        "Expense_Category": "Telephone & mobile",
+        "MH CATEGORY GROUP": "Bills and utilities",
+        "MH CATEGORY": "Telephone & mobile",
+        "EIQ Category": "Mobile"
+    },
+    {
+        "Expense_Group": "Bills",
+        "Expense_Category": "Telephone & mobile",
+        "MH CATEGORY GROUP": "Bills and utilities",
+        "MH CATEGORY": "Telephone & mobile",
+        "EIQ Category": "Mobile:Mobile Phone Bills"
+    },
+    {
+        "Expense_Group": "Bills",
+        "Expense_Category": "TV",
+        "MH CATEGORY GROUP": "Bills and utilities",
+        "MH CATEGORY": "TV & internet",
+        "EIQ Category": "Household:TV"
+    },
+    {
+        "Expense_Group": "Bills",
+        "Expense_Category": "Utilities",
+        "MH CATEGORY GROUP": "Bills and utilities",
+        "MH CATEGORY": "Utilities",
+        "EIQ Category": "Household:Gas - Electricity"
+    },
+    {
+        "Expense_Group": "Bills",
+        "Expense_Category": "Utilities",
+        "MH CATEGORY GROUP": "Bills and utilities",
+        "MH CATEGORY": "Utilities",
+        "EIQ Category": "Household:Gas & Electricity"
+    },
+    {
+        "Expense_Group": "Business",
+        "Expense_Category": "Office costs",
+        "MH CATEGORY GROUP": "Business",
+        "MH CATEGORY": "Office costs",
+        "EIQ Category": "Business:Office costs"
+    },
+    {
+        "Expense_Group": "Business",
+        "Expense_Category": "Other business costs",
+        "MH CATEGORY GROUP": "Business",
+        "MH CATEGORY": "Other business costs",
+        "EIQ Category": "Business:Other business costs"
+    },
+    {
+        "Expense_Group": "Business",
+        "Expense_Category": "Postage and shipping",
+        "MH CATEGORY GROUP": "Business",
+        "MH CATEGORY": "Postage and shipping",
+        "EIQ Category": "Business:Postage and shipping"
+    },
+    {
+        "Expense_Group": "Business",
+        "Expense_Category": "Printing",
+        "MH CATEGORY GROUP": "Business",
+        "MH CATEGORY": "Printing",
+        "EIQ Category": "Business:Printing"
+    },
+    {
+        "Expense_Group": "Cash",
+        "Expense_Category": "Cash withdrawals",
+        "MH CATEGORY GROUP": "Cash",
+        "MH CATEGORY": "Cash withdrawals",
+        "EIQ Category": "Cash:Cash withdrawals"
+    },
+    {
+        "Expense_Group": "Cash",
+        "Expense_Category": "Savings",
+        "MH CATEGORY GROUP": "Cash",
+        "MH CATEGORY": "Savings",
+        "EIQ Category": "Cash:Savings"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Food",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Eating out",
+        "EIQ Category": "Food"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Lunch",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Lunch",
+        "EIQ Category": "Food:Lunch"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Take Away",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Take Away",
+        "EIQ Category": "Food:Take Away"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Restaurant",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Restaurant",
+        "EIQ Category": "Restaurant"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Entertainment",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Entertainment",
+        "EIQ Category": "Entertainment"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Hobbies",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Hobbies",
+        "EIQ Category": "Sports & Recreation"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Betting",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Betting",
+        "EIQ Category": "Sports & Recreation:Betting"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Football",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Football",
+        "EIQ Category": "Sports & Recreation:Football"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Golf",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Golf",
+        "EIQ Category": "Sports & Recreation:Golf"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Gym",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Gym",
+        "EIQ Category": "Sports & Recreation:Gym"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Betting",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Betting",
+        "EIQ Category": "Sports:Betting"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Football",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Football",
+        "EIQ Category": "Sports:Football"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Golf",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Golf",
+        "EIQ Category": "Sports:Golf"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Holidays",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Holidays",
+        "EIQ Category": "Vacation"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Holidays",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Holidays",
+        "EIQ Category": "Vacation:CLC Loan"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Holidays",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Holidays",
+        "EIQ Category": "Vacation:CLC Membership"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Holidays",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Holidays",
+        "EIQ Category": "Vacation:Holiday Spending"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Holidays",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Holidays",
+        "EIQ Category": "Vacation:Non CLC Holiday"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Ice Hockey",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Ice Hockey",
+        "EIQ Category": "Ice Hockey"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Ice Hockey",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Ice Hockey",
+        "EIQ Category": "Ice Hockey: Tickets"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Ice Hockey",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Ice Hockey",
+        "EIQ Category": "Ice Hockey:Away Games"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Ice Hockey",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Ice Hockey",
+        "EIQ Category": "Ice Hockey:Spending"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Ice Hockey",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Ice Hockey",
+        "EIQ Category": "Ice Hockey:Tickets"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Ice Hockey",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Ice Hockey",
+        "EIQ Category": "Sports & Recreation:Ice Hockey"
+    },
+    {
+        "Expense_Group": "Entertainment",
+        "Expense_Category": "Subscriptions",
+        "MH CATEGORY GROUP": "Entertainment",
+        "MH CATEGORY": "Subscriptions",
+        "EIQ Category": "Entertainment:Subscriptions"
+    },
+    {
+        "Expense_Group": "Gifts",
+        "Expense_Category": "Charity",
+        "MH CATEGORY GROUP": "Gifts and giving",
+        "MH CATEGORY": "Charitable giving",
+        "EIQ Category": "Charity"
+    },
+    {
+        "Expense_Group": "Gifts",
+        "Expense_Category": "Friends",
+        "MH CATEGORY GROUP": "Gifts and giving",
+        "MH CATEGORY": "Gifts to friends & family",
+        "EIQ Category": "Gifts"
+    },
+    {
+        "Expense_Group": "Family",
+        "Expense_Category": "June",
+        "MH CATEGORY GROUP": "Gifts and giving",
+        "MH CATEGORY": "June",
+        "EIQ Category": "Gifts:June"
+    },
+    {
+        "Expense_Group": "Family",
+        "Expense_Category": "June",
+        "MH CATEGORY GROUP": "Gifts and giving",
+        "MH CATEGORY": "June",
+        "EIQ Category": "Family:June"
+    },
+    {
+        "Expense_Group": "Family",
+        "Expense_Category": "June",
+        "MH CATEGORY GROUP": "Gifts and giving",
+        "MH CATEGORY": "June",
+        "EIQ Category": "June Monthly Allowance"
+    },
+    {
+        "Expense_Group": "Family",
+        "Expense_Category": "Liam",
+        "MH CATEGORY GROUP": "Gifts and giving",
+        "MH CATEGORY": "Liam",
+        "EIQ Category": "Gifts:Liam"
+    },
+    {
+        "Expense_Group": "Family",
+        "Expense_Category": "Liam",
+        "MH CATEGORY GROUP": "Gifts and giving",
+        "MH CATEGORY": "Liam",
+        "EIQ Category": "Family:Liam"
+    },
+    {
+        "Expense_Group": "Family",
+        "Expense_Category": "Mum Dad",
+        "MH CATEGORY GROUP": "Gifts and giving",
+        "MH CATEGORY": "Mum Dad",
+        "EIQ Category": "Gifts:Mum & Dad"
+    },
+    {
+        "Expense_Group": "Family",
+        "Expense_Category": "Mum Dad",
+        "MH CATEGORY GROUP": "Gifts and giving",
+        "MH CATEGORY": "Mum Dad",
+        "EIQ Category": "Family:Mum - Dad"
+    },
+    {
+        "Expense_Group": "Family",
+        "Expense_Category": "Samantha",
+        "MH CATEGORY GROUP": "Gifts and giving",
+        "MH CATEGORY": "Samantha",
+        "EIQ Category": "Gifts:Samantha"
+    },
+    {
+        "Expense_Group": "Family",
+        "Expense_Category": "Samantha",
+        "MH CATEGORY GROUP": "Gifts and giving",
+        "MH CATEGORY": "Samantha",
+        "EIQ Category": "Family:Samantha"
+    },
+    {
+        "Expense_Group": "Family",
+        "Expense_Category": "Tanski",
+        "MH CATEGORY GROUP": "Gifts and giving",
+        "MH CATEGORY": "Tanski",
+        "EIQ Category": "Family:Tanski"
+    },
+    {
+        "Expense_Group": "Self",
+        "Expense_Category": "Health",
+        "MH CATEGORY GROUP": "Health",
+        "MH CATEGORY": "Healthcare",
+        "EIQ Category": "Health:Healthcare"
+    },
+    {
+        "Expense_Group": "Self",
+        "Expense_Category": "Health",
+        "MH CATEGORY GROUP": "Health",
+        "MH CATEGORY": "Personal care",
+        "EIQ Category": "Health:Personal care"
+    },
+    {
+        "Expense_Group": "Self",
+        "Expense_Category": "Clothing & shoes",
+        "MH CATEGORY GROUP": "Household",
+        "MH CATEGORY": "Clothing & shoes",
+        "EIQ Category": "Household:Clothing & shoes"
+    },
+    {
+        "Expense_Group": "Bills",
+        "Expense_Category": "Council Tax",
+        "MH CATEGORY GROUP": "Household",
+        "MH CATEGORY": "Council Tax",
+        "EIQ Category": "Household:Council Tax"
+    },
+    {
+        "Expense_Group": "Houserhold",
+        "Expense_Category": "Education",
+        "MH CATEGORY GROUP": "Household",
+        "MH CATEGORY": "Education",
+        "EIQ Category": "Household:Education"
+    },
+    {
+        "Expense_Group": "Houserhold",
+        "Expense_Category": "Electronics",
+        "MH CATEGORY GROUP": "Household",
+        "MH CATEGORY": "Electronics",
+        "EIQ Category": "Household:Electronics"
+    },
+    {
+        "Expense_Group": "Houserhold",
+        "Expense_Category": "Garden",
+        "MH CATEGORY GROUP": "Household",
+        "MH CATEGORY": "Garden",
+        "EIQ Category": "Household:Garden"
+    },
+    {
+        "Expense_Group": "Houserhold",
+        "Expense_Category": "Computer",
+        "MH CATEGORY GROUP": "Houserhold",
+        "MH CATEGORY": "Computer",
+        "EIQ Category": "Software"
+    },
+    {
+        "Expense_Group": "Houserhold",
+        "Expense_Category": "Computer",
+        "MH CATEGORY GROUP": "Houserhold",
+        "MH CATEGORY": "Computer",
+        "EIQ Category": "Computer"
+    },
+    {
+        "Expense_Group": "Houserhold",
+        "Expense_Category": "Home improvement",
+        "MH CATEGORY GROUP": "Household",
+        "MH CATEGORY": "Home improvement",
+        "EIQ Category": "Household:Home improvement"
+    },
+    {
+        "Expense_Group": "Houserhold",
+        "Expense_Category": "Home maintenance",
+        "MH CATEGORY GROUP": "Household",
+        "MH CATEGORY": "Home maintenance",
+        "EIQ Category": "Household:Maintenance"
+    },
+    {
+        "Expense_Group": "Houserhold",
+        "Expense_Category": "Move",
+        "MH CATEGORY GROUP": "Houserhold",
+        "MH CATEGORY": "Move",
+        "EIQ Category": "Household:Move"
+    },
+    {
+        "Expense_Group": "Houserhold",
+        "Expense_Category": "Home maintenance",
+        "MH CATEGORY GROUP": "Houserhold",
+        "MH CATEGORY": "Home maintenance",
+        "EIQ Category": "Household"
+    },
+    {
+        "Expense_Group": "Bills",
+        "Expense_Category": "Household insurance",
+        "MH CATEGORY GROUP": "Household",
+        "MH CATEGORY": "Insurance",
+        "EIQ Category": "Insurance:Life Insurance"
+    },
+    {
+        "Expense_Group": "Bills",
+        "Expense_Category": "Tanski",
+        "MH CATEGORY GROUP": "Household",
+        "MH CATEGORY": "Pets",
+        "EIQ Category": "Household:Pets"
+    },
+    {
+        "Expense_Group": "Income",
+        "Expense_Category": "Interest earnings",
+        "MH CATEGORY GROUP": "Income",
+        "MH CATEGORY": "Interest earnings",
+        "EIQ Category": "Bank:Interest"
+    },
+    {
+        "Expense_Group": "Income",
+        "Expense_Category": "Other income",
+        "MH CATEGORY GROUP": "Income",
+        "MH CATEGORY": "Other income",
+        "EIQ Category": "Income:Other income"
+    },
+    {
+        "Expense_Group": "Income",
+        "Expense_Category": "Salary",
+        "MH CATEGORY GROUP": "Income",
+        "MH CATEGORY": "Salary",
+        "EIQ Category": "Income"
+    },
+    {
+        "Expense_Group": "Income",
+        "Expense_Category": "Savings & investments income",
+        "MH CATEGORY GROUP": "Income",
+        "MH CATEGORY": "Savings & investments income",
+        "EIQ Category": "Investment"
+    },
+    {
+        "Expense_Group": "Income",
+        "Expense_Category": "Work expenses",
+        "MH CATEGORY GROUP": "Income",
+        "MH CATEGORY": "Work expenses",
+        "EIQ Category": "Income:Work expenses"
+    },
+    {
+        "Expense_Group": "Income",
+        "Expense_Category": "Tax",
+        "MH CATEGORY GROUP": "Income",
+        "MH CATEGORY": "Tax",
+        "EIQ Category": "Tax:Alistair"
+    },
+    {
+        "Expense_Group": "Other",
+        "Expense_Category": "Other expenses",
+        "MH CATEGORY GROUP": "Other",
+        "MH CATEGORY": "Other expenses",
+        "EIQ Category": "Others"
+    },
+    {
+        "Expense_Group": "Repayments",
+        "Expense_Category": "Rent",
+        "MH CATEGORY GROUP": "Rent payment",
+        "MH CATEGORY": "Rent payments",
+        "EIQ Category": "Rent payment:Rent payments"
+    },
+    {
+        "Expense_Group": "Repayments",
+        "Expense_Category": "Loans",
+        "MH CATEGORY GROUP": "Repayments",
+        "MH CATEGORY": "Loans",
+        "EIQ Category": "Repayments:Loans"
+    },
+    {
+        "Expense_Group": "Repayments",
+        "Expense_Category": "Mortgage",
+        "MH CATEGORY GROUP": "Repayments",
+        "MH CATEGORY": "Mortgages",
+        "EIQ Category": "Household:Mortgage"
+    },
+    {
+        "Expense_Group": "Shopping",
+        "Expense_Category": "General merchandise",
+        "MH CATEGORY GROUP": "Shopping",
+        "MH CATEGORY": "General merchandise",
+        "EIQ Category": "Shopping"
+    },
+    {
+        "Expense_Group": "Shopping",
+        "Expense_Category": "Groceries",
+        "MH CATEGORY GROUP": "Shopping",
+        "MH CATEGORY": "Groceries",
+        "EIQ Category": "Shopping:Groceries"
+    },
+    {
+        "Expense_Group": "Shopping",
+        "Expense_Category": "Self",
+        "MH CATEGORY GROUP": "Shopping",
+        "MH CATEGORY": "Self",
+        "EIQ Category": "Self"
+    },
+    {
+        "Expense_Group": "Transfers",
+        "Expense_Category": "Credit card payments",
+        "MH CATEGORY GROUP": "Transfers",
+        "MH CATEGORY": "Credit card payments",
+        "EIQ Category": "Transfers:Credit card payments"
+    },
+    {
+        "Expense_Group": "Transfers",
+        "Expense_Category": "Savings",
+        "MH CATEGORY GROUP": "Transfers",
+        "MH CATEGORY": "Savings",
+        "EIQ Category": "Transfers:Savings"
+    },
+    {
+        "Expense_Group": "Transfers",
+        "Expense_Category": "Transfers",
+        "MH CATEGORY GROUP": "Transfers",
+        "MH CATEGORY": "Transfers",
+        "EIQ Category": "Transfer (Inward)"
+    },
+    {
+        "Expense_Group": "Transfers",
+        "Expense_Category": "Transfers",
+        "MH CATEGORY GROUP": "Transfers",
+        "MH CATEGORY": "Transfers",
+        "EIQ Category": "Transfer (Outward)"
+    },
+    {
+        "Expense_Group": "Transport",
+        "Expense_Category": "Car Loan",
+        "MH CATEGORY GROUP": "Transport",
+        "MH CATEGORY": "Car Loan",
+        "EIQ Category": "Car:Car Loan"
+    },
+    {
+        "Expense_Group": "Transport",
+        "Expense_Category": "Car running costs",
+        "MH CATEGORY GROUP": "Transport",
+        "MH CATEGORY": "Car running costs",
+        "EIQ Category": "Car"
+    },
+    {
+        "Expense_Group": "Transport",
+        "Expense_Category": "Car running costs",
+        "MH CATEGORY GROUP": "Transport",
+        "MH CATEGORY": "Car running costs",
+        "EIQ Category": "Car:Car Insurance"
+    },
+    {
+        "Expense_Group": "Transport",
+        "Expense_Category": "Fuel",
+        "MH CATEGORY GROUP": "Transport",
+        "MH CATEGORY": "Fuel",
+        "EIQ Category": "Travel:Fuel"
+    },
+    {
+        "Expense_Group": "Transport",
+        "Expense_Category": "Travel",
+        "MH CATEGORY GROUP": "Transport",
+        "MH CATEGORY": "Travel",
+        "EIQ Category": "Travel"
+    },
+    {
+        "Expense_Group": "Transport",
+        "Expense_Category": "Bus",
+        "MH CATEGORY GROUP": "Transport",
+        "MH CATEGORY": "Bus",
+        "EIQ Category": "Travel:Bus"
+    },
+    {
+        "Expense_Group": "Transport",
+        "Expense_Category": "Train",
+        "MH CATEGORY GROUP": "Transport",
+        "MH CATEGORY": "Train",
+        "EIQ Category": "Travel:Train"
+    },
+    {
+        "Expense_Group": "Work",
+        "Expense_Category": "Expenses",
+        "MH CATEGORY GROUP": "Work",
+        "MH CATEGORY": "Expenses",
+        "EIQ Category": "Work"
+    }
+]
